@@ -1,7 +1,7 @@
 package net.codejava.contact.config;
 
 
-import javax.sql.DataSource;
+import javax.sql.DataSource; 
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
